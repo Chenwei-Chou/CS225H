@@ -1,0 +1,9 @@
+/workspaces/cs225env/cs225/hw8/build/CMakeFiles/test.dir
+/workspaces/cs225env/cs225/hw8/build/CMakeFiles/main.dir
+/workspaces/cs225env/cs225/hw8/build/CMakeFiles/edit_cache.dir
+/workspaces/cs225env/cs225/hw8/build/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225env/cs225/hw8/build/lib/CMakeFiles/edit_cache.dir
+/workspaces/cs225env/cs225/hw8/build/lib/CMakeFiles/rebuild_cache.dir
+/workspaces/cs225env/cs225/hw8/build/src/CMakeFiles/src.dir
+/workspaces/cs225env/cs225/hw8/build/src/CMakeFiles/edit_cache.dir
+/workspaces/cs225env/cs225/hw8/build/src/CMakeFiles/rebuild_cache.dir
